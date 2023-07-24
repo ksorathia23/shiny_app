@@ -1,0 +1,13 @@
+Error in parse(file, keep.source = FALSE, srcfile = src, encoding = enc) : 
+  /home/jovyan/app.r:94:32: unexpected symbol
+93:               ggplot() +
+94:   geom_point(aes(x = dataInpu()t
+                                   ^
+Possible missing comma at:
+94:  geom_point(aes(x = dataInpu()t$x, y = dataInput()$y),
+                                  ^
+Error in sourceUTF8(fullpath, envir = new.env(parent = sharedEnv)) : 
+  Error sourcing /home/jovyan/app.r
+Calls: runApp ... shinyAppDir -> shinyAppDir_appR -> appObj -> func -> sourceUTF8
+Execution halted
+

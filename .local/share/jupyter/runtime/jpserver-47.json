@@ -1,0 +1,13 @@
+{
+  "base_url": "/binder/jupyter/user/ksorathia23-shiny_app-bj6pnf8d/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 47,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "qnYRDcnBQiWibzoETprZpA",
+  "url": "http://jupyter-ksorathia23-2dshiny-5fapp-2dbj6pnf8d:8888/binder/jupyter/user/ksorathia23-shiny_app-bj6pnf8d/",
+  "version": "1.23.6"
+}

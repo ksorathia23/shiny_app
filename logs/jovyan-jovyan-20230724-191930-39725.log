@@ -1,0 +1,46 @@
+
+Listening on http://127.0.0.1:39725
+Warning: Error in paste: cannot coerce type 'closure' to vector of type 'character'
+  185: paste
+  184: FUN
+  183: lapply
+  182: scales_add_defaults
+  181: f
+  180: l$compute_aesthetics
+  179: f
+  178: by_layer
+  177: ggplot_build.ggplot
+  175: print.ggplot
+  167: func
+  165: f
+  164: Reduce
+  155: do
+  154: hybrid_chain
+  126: drawPlot
+  112: <reactive:plotObj>
+   96: drawReactive
+   83: renderFunc
+   82: output$lmPlot
+    1: runApp
+Warning: Error in paste: cannot coerce type 'closure' to vector of type 'character'
+  185: paste
+  184: FUN
+  183: lapply
+  182: scales_add_defaults
+  181: f
+  180: l$compute_aesthetics
+  179: f
+  178: by_layer
+  177: ggplot_build.ggplot
+  175: print.ggplot
+  167: func
+  165: f
+  164: Reduce
+  155: do
+  154: hybrid_chain
+  126: drawPlot
+  112: <reactive:plotObj>
+   96: drawReactive
+   83: renderFunc
+   82: output$lmPlot
+    1: runApp
